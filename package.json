@@ -40,7 +40,5 @@
     "unified": "^7.1.0",
     "yesno": "^0.2.0"
   },
-  "devDependencies": {
-    "prettier": "^1.15.3"
-  }
+  "devDependencies": {}
 }
