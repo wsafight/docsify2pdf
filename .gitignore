@@ -1,6 +1,11 @@
 node_modules
+
 dist
+docs
+pdf
+static
 
 .idea
+.vscode
 DS_Store
 .DS_Store
